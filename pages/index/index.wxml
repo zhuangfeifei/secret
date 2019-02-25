@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='center'>
+    <text>请输入秘钥：</text>
+    <view>
+      <input id='secret_key' value='{{value}}' bindinput='bindinputs'></input>
+    </view>
+    <button bindtap='determine'>确定</button>
+  </view>
+</view>

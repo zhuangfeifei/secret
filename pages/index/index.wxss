@@ -1,0 +1,21 @@
+/**index.wxss**/
+.container{
+  width: 750rpx; height: 100%; 
+  background-image: url('http://ku.90sjimg.com/back_pic/04/71/60/89589b14c951a9a.jpg%21/fwfh/804x1429/quality/90/unsharp/true/compress/true/watermark/text/OTDorr7orqE=/font/simkai/align/southeast/opacity/20/size/50');
+  background-size: 100% 100%; background-repeat: no-repeat; background-attachment: fixed;
+  text-align: center;
+}
+
+.center{
+  padding: 300rpx 0; font-size: 35rpx;
+}
+
+#secret_key{
+  width: 500rpx; height: 60rpx; border-bottom: 1px solid gray;
+  margin: 0 auto; margin-top: 40rpx;
+}
+
+button{
+  width: 150rpx; height: 70rpx; font-size: 30rpx; margin-top: 100rpx; line-height: 70rpx;
+  background-color: grey; color: white; border: none;
+}
