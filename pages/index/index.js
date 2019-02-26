@@ -4,7 +4,7 @@ const app = getApp()
 
 Page({
   data: {
-    value:''
+    value:'', sad: 1
   },
   //事件处理函数
   bindViewTap: function() {
